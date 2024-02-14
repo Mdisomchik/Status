@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import True from "./images/93828172734452.jpg";
+import True from "./images/sub-buzz-7279-1661869809-15.webp";
 import False from "./images/4848572389483731.jpg";
 import "./App.css";
 
